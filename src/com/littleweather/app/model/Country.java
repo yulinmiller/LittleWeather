@@ -4,6 +4,7 @@ package com.littleweather.app.model;
  * Created by lliyu on 9/19/2014.
  */
 public class Country {
+
     private int id;
     private String countryName;
     private String countryCode;
