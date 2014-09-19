@@ -25,5 +25,5 @@ proguard/
 # Log Files
 *.log
 
-# ide prop
-.ide/
+# idea prop
+.idea/
